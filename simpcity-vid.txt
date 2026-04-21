@@ -1,2 +1,4 @@
 gofile.io
+*.gofile.io
 filester.me
+*.filester.me

@@ -2,3 +2,5 @@ gofile.io
 *.gofile.io
 filester.me
 *.filester.me
+redgifs.com
+*.redgifs.com
